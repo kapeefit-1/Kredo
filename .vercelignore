@@ -1,0 +1,17 @@
+node_modules/
+.next/
+.git/
+.vercel/
+.env*
+.obsidian/
+tmp/
+coverage/
+out/
+build/
+/supabase/
+tests/
+docs/
+*.tsbuildinfo
+*.pem
+*.log
+.DS_Store

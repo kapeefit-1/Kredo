@@ -1,0 +1,16 @@
+{
+  "crons": [
+    {
+      "path": "/api/cron/recurring-tasks",
+      "schedule": "30 3 * * *"
+    },
+    {
+      "path": "/api/cron/overdue-report",
+      "schedule": "0 5 * * *"
+    },
+    {
+      "path": "/api/cron/consultation-sync",
+      "schedule": "30 0 * * *"
+    }
+  ]
+}

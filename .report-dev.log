@@ -1,0 +1,10 @@
+▲ Next.js 16.2.12 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.1.8:3000
+- Environments: .env.local
+✓ Ready in 6.4s
+Creating turbopack project {
+  dir: 'C:\\Users\\kapeefit QA\\Desktop\\kamour-crm-app',
+  testMode: true
+}
+
